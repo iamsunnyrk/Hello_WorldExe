@@ -1,1 +1,1 @@
-Open HowToOpen.txt
+Open HowToUse.txt
